@@ -11,6 +11,7 @@ body {
 	width: 100%;
 	min-width: 980px;
 	background-color: #356EE8;
+	border-bottom: red;
 }
 
 #navbar {
@@ -24,4 +25,12 @@ body {
 #navbar form {
 	margin-top: 30px;
 	float: right;
+}
+
+.main {
+	padding-top: 4em;
+}
+
+.biru_text {
+	color: #356EE8;
 }
