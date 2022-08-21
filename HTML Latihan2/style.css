@@ -1,0 +1,83 @@
+body {
+  background-color: #28272a;
+  color: #F2E8CF;
+}
+
+hr {
+    border:2px solid;
+    color:#F2E8CF;
+    background-color:#F2E8CF;
+}
+
+/* Font Styling */
+
+h2 {
+  color: #F2E8CF;
+  font-family: arial;
+}
+
+h1 {
+	font-family: arial;
+	font-size: 30px;
+	font-variant: small-caps;
+  color: #F2E8CF;
+}
+
+h5 {
+  	color: #F2E8CF;
+}
+
+h3 {
+	font-family: arial;
+	font-wight: bold;
+  color: #F2E8CF;
+}
+
+p {
+	font-family: Century Gothic;
+	font-weight: bold;
+  color: #F2E8CF;
+}
+
+/*Form Styling*/
+
+form {
+  	font-family: arial;
+}
+
+ul {
+  	font-family: Century Gothic;
+}
+
+table {
+	text-align: center;
+}
+
+.loginmenu {
+	float: right;
+	padding-top: 15px;
+	padding-right: 15px;
+}
+
+
+/*Pengelompokan Element*/
+ 
+.main {
+	text-align: justify;
+}
+
+.formmenu {
+	background-color: black;
+	margin-right: 999px;
+	padding: 10px;
+	border: 2px solid #ffffff;
+}
+
+.img1 {
+	border: 2px solid black;
+	margin-right: 687px;
+}
+
+.topnav {
+	background-color: black;
+}
